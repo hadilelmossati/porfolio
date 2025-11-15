@@ -1,0 +1,5 @@
+{
+  "name": "Creative Portfolio",
+  "description": "A creative and interactive portfolio web application built with React and Tailwind CSS, based on a user's CV.",
+  "requestFramePermissions": []
+}
